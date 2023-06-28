@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+#select{
+    background-color: rgba(0, 0, 0, 0.598);
+    color: white;
+    padding:10px;
+    margin-left:10px;
+    font-size: medium;
+    font-weight: 400;
+}
+button{
+    background-color: rgba(39, 15, 177, 0.821);
+    color: black;
+    padding:10px;
+    margin-left:10px;
+    font-size: larger;
+    font-weight: 600;
+}
+button:hover{
+    background-color: brown;
+}
